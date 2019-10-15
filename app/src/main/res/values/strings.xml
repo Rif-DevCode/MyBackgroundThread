@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyBackgroundThread</string>
+    <string name="status">status</string>
+    <string name="desc">desc</string>
+    <string name="status_pre">Status : onPreExecute</string>
+    <string name="status_post">Status : onPostExecute</string>
+</resources>
